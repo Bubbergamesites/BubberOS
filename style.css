@@ -25,14 +25,14 @@
 }
 
 :root {
-    --accent: #B353D6; 
-    --accent-hover: #5A208B;
-    --accent-dark: #28123F;
-    --bg-primary: #6C149A; 
-    --bg-secondary: #4E0D7A;
-    --text-primary: #060B0C;
-    --text-secondary: #251836;
-    --border: #7dd3c0; 
+    --accent: #7dd3c0;
+    --accent-hover: #6bc4b0;
+    --accent-dark: #469483;
+    --bg-primary: #0a0e1a;
+    --bg-secondary: #121724;
+    --text-primary: #e8eaed;
+    --text-secondary: #9aa0a6;
+    --border: #7dd3c0;
     --error-red: #ef4444;
     --error-red-hover: #dc2626;
     --error-red-bg: rgba(239, 68, 68, 0.15);
